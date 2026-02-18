@@ -17,11 +17,17 @@
 
 ---
 
-## How to Submit Feedback
+## Share Your Feedback
 
-- **Found a bug?** [Open a bug report](https://github.com/textforge-app/feedback/issues/new?template=bug_report.md)
-- **Have an idea?** [Request a feature](https://github.com/textforge-app/feedback/issues/new?template=feature_request.md)
-- **General question?** [Ask a question](https://github.com/textforge-app/feedback/issues/new?template=question.md)
+We use [GitHub Discussions](https://github.com/textforge-app/feedback/discussions) as our community feedback hub.
+
+| I want to... | Go here |
+|---|---|
+| Report a bug | [Bug Reports](https://github.com/textforge-app/feedback/discussions/new?category=bug-reports) |
+| Suggest a feature | [Ideas](https://github.com/textforge-app/feedback/discussions/new?category=ideas) |
+| Ask a question | [Q&A](https://github.com/textforge-app/feedback/discussions/new?category=q-a) |
+| See what's coming | [Roadmap](https://github.com/textforge-app/feedback/discussions/categories/roadmap) |
+| Browse all discussion | [Discussions](https://github.com/textforge-app/feedback/discussions) |
 
 ## What is TextForge?
 
