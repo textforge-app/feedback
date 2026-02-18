@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://textforge.net">Website</a> &bull;
-  <a href="https://x.com/TForge">Twitter</a> &bull;
+  <a href="https://x.com/ForgeT34326">Twitter</a> &bull;
   <a href="https://github.com/textforge-app">GitHub</a>
 </p>
 
